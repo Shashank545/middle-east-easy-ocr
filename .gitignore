@@ -1,0 +1,17 @@
+# Ignore PDF files
+*.pdf
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore VSCode settings
+.vscode
+
+# Ignore Python bytecode and cache
+/src/__pycache__
+
+# Ignore virtual environment directories
+venv/
+apprun_venv/
+env/
+.venv/
